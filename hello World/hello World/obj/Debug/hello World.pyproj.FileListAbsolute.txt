@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\hello World.exe.config
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\hello World.exe
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\hello World.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\obj\Debug\hello World.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\obj\Debug\hello_World.MainForm.resources
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\obj\Debug\hello World.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\GitHub\programming2\hello World\hello World\obj\Debug\hello World.exe
