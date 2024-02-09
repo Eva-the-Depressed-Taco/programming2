@@ -1,0 +1,5 @@
+copies = int(input("enter number of copies" ))
+
+price = 0.0
+
+if 0 < copies <
