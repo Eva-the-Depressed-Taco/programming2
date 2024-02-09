@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\About Me.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\About Me.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\About Me.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\obj\Debug\About Me.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\obj\Debug\About_Me.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\obj\Debug\About Me.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\About Me\About Me\obj\Debug\About Me.exe

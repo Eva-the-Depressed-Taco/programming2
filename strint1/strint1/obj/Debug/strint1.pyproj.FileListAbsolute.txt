@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\strint1.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\strint1.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\strint1.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\obj\Debug\strint1.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\obj\Debug\strint1.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\obj\Debug\strint1.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\strint1\strint1\obj\Debug\strint1.exe

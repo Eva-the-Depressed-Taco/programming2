@@ -1,0 +1,12 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\obj\Debug\long distance.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\obj\Debug\long_distance.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\obj\Debug\long distance.pyproj.GenerateResource.Cache
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\long distance.exe.config
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\long distance.exe
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\long distance.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\IronPython.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Documents\SharpDevelop Projects\long distance\long distance\obj\Debug\long distance.exe

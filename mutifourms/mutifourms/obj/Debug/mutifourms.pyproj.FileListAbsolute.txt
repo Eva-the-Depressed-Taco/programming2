@@ -1,0 +1,4 @@
+C:\Users\white.e\Documents\SharpDevelop Projects\mutifourms\mutifourms\obj\Debug\mutifourms.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Documents\SharpDevelop Projects\mutifourms\mutifourms\obj\Debug\mutifourms.Form1.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\mutifourms\mutifourms\obj\Debug\mutifourms.MainForm.resources
+C:\Users\white.e\Documents\SharpDevelop Projects\mutifourms\mutifourms\obj\Debug\mutifourms.pyproj.GenerateResource.Cache
