@@ -1,0 +1,12 @@
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\obj\Debug\Pg486AstronomyFix.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\obj\Debug\Pg486AstronomyFix.MainForm.resources
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\obj\Debug\Pg486AstronomyFix.pyproj.GenerateResource.Cache
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Pg486AstronomyFix.exe.config
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Pg486AstronomyFix.exe
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Pg486AstronomyFix.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\IronPython.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Desktop\programming2\Pg486AstronomyFix\Pg486AstronomyFix\obj\Debug\Pg486AstronomyFix.exe
