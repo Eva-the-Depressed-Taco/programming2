@@ -1,0 +1,12 @@
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\p54c.exe.config
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\p54c.exe
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\p54c.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\IronPython.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\IronPython.Modules.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\Microsoft.Scripting.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\white.e\Desktop\programming2\p54c\p54c\obj\Debug\p54c.pyprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\p54c\p54c\obj\Debug\p54c.MainForm.resources
+C:\Users\white.e\Desktop\programming2\p54c\p54c\obj\Debug\p54c.pyproj.GenerateResource.Cache
+C:\Users\white.e\Desktop\programming2\p54c\p54c\obj\Debug\p54c.exe
