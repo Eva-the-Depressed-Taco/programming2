@@ -1,7 +1,7 @@
-slices = int(input("enter slices"))
-dia = int(input("enter daimter"))
-Laborcosts = 0.75 * slices
-rent = 1 * slices
-mat = dia * 0.05
-total = mat + rent + Laborcosts
+
+dia = int(input("enter daimter "))
+Laborcosts = 0.75 
+rent = 1
+mat = dia * dia * 0.05
+total = (mat + rent + Laborcosts)
 print("cost =", total)
