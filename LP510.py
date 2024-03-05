@@ -1,8 +1,13 @@
-import math
-num1 = int(input("Enter A number: "))
-num2 = int(input("Enter A number: "))
-print(math.gcd(num1, num2))
+def gcd(a, b):
+  while b:
+      a, b = b, a % b
+  return a
 
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter another number: "))
+
+result = gcd(num1, num2)
+print("The GCD is:", result)
 
 
 
