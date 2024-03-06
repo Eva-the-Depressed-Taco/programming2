@@ -1,4 +1,4 @@
-
+import random
 
 number = random.randint(1, 21)
 guess = int(input("Enter a Number Guess: "))
