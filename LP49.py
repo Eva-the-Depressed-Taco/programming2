@@ -1,6 +1,8 @@
-import random
+from time import time
 
-number = random.randint(1, 21)
+apples = int(time())
+number = apples % 20 + 1
+
 guess = int(input("Enter a Number Guess: "))
 if guess == number:
   print("you win")
