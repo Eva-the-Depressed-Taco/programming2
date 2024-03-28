@@ -1,7 +1,7 @@
-des = int(input("enter designing "))
-cod = int(input("enter designing "))
-deb = int(input("enter designing "))
-tes = int(input("enter designing "))
+des = int(input("enter designing time"))
+cod = int(input("enter coding time"))
+deb = int(input("enter debiging time"))
+tes = int(input("enter testing time "))
 
 time = des + cod + deb + tes
 desP = des / time
