@@ -1,0 +1,5 @@
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\NumNum\bin\Debug\NumNum.exe
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\NumNum\bin\Debug\NumNum.pdb
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\NumNum\obj\x86\Debug\NumNum.csprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\NumNum\obj\x86\Debug\NumNum.exe
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\NumNum\obj\x86\Debug\NumNum.pdb
