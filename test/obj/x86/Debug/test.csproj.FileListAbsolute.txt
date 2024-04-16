@@ -1,0 +1,5 @@
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\test\bin\Debug\test.exe
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\test\bin\Debug\test.pdb
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\test\obj\x86\Debug\test.exe
+C:\Users\white.e\Desktop\programin 2\SharpDevelop\programming2\test\obj\x86\Debug\test.pdb
