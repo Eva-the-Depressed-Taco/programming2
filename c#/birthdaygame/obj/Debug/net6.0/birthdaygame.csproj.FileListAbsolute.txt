@@ -1,0 +1,15 @@
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.AssemblyInfoInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.AssemblyInfo.cs
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.csproj.CoreCompileInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\birthdaygame.exe
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\birthdaygame.deps.json
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\birthdaygame.runtimeconfig.json
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\birthdaygame.dll
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\ref\birthdaygame.dll
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\bin\Debug\net6.0\birthdaygame.pdb
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.dll
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\ref\birthdaygame.dll
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.pdb
+C:\Users\white.e\Desktop\programming2\c#\birthdaygame\obj\Debug\net6.0\birthdaygame.genruntimeconfig.cache

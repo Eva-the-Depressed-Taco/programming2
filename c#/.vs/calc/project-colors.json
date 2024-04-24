@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "199ed0e5-53ee-40e3-9453-8ed3d4caeb96": {
+      "ProjectGuid": "199ed0e5-53ee-40e3-9453-8ed3d4caeb96",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 0
+    },
+    "276aa0a4-16fc-4ce6-8cb2-9e5e481e253b": {
+      "ProjectGuid": "276aa0a4-16fc-4ce6-8cb2-9e5e481e253b",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 1
+    },
+    "8ad99bdb-811a-4e82-80d9-6b4206f0bebf": {
+      "ProjectGuid": "8ad99bdb-811a-4e82-80d9-6b4206f0bebf",
+      "DisplayName": "birthdaygame",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

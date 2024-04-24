@@ -1,0 +1,15 @@
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.csproj.AssemblyReference.cache
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.AssemblyInfoInputs.cache
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.AssemblyInfo.cs
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.csproj.CoreCompileInputs.cache
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\lp42.exe
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\lp42.deps.json
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\lp42.runtimeconfig.json
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\lp42.dll
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\ref\lp42.dll
+C:\Users\white.e\source\repos\calc\lp42\lp42\bin\Debug\net6.0\lp42.pdb
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.dll
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\ref\lp42.dll
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.pdb
+C:\Users\white.e\source\repos\calc\lp42\lp42\obj\Debug\net6.0\lp42.genruntimeconfig.cache

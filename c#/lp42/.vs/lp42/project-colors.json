@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fcd0a34b-fea2-4051-9392-3c95c8b100bd": {
+      "ProjectGuid": "fcd0a34b-fea2-4051-9392-3c95c8b100bd",
+      "DisplayName": "lp42",
+      "ColorIndex": 0
+    },
+    "6140e2a4-843e-4d79-839e-5aa3dd47b020": {
+      "ProjectGuid": "6140e2a4-843e-4d79-839e-5aa3dd47b020",
+      "DisplayName": "lp4-5",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
