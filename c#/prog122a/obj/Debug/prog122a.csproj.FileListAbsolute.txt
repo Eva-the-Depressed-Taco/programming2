@@ -1,0 +1,11 @@
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.csproj.SuggestedBindingRedirects.cache
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.Form1.resources
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.Properties.Resources.resources
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.csproj.GenerateResource.cache
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.csproj.CoreCompileInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\prog122a\bin\Debug\prog122a.exe.config
+C:\Users\white.e\Desktop\programming2\c#\prog122a\bin\Debug\prog122a.exe
+C:\Users\white.e\Desktop\programming2\c#\prog122a\bin\Debug\prog122a.pdb
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.exe
+C:\Users\white.e\Desktop\programming2\c#\prog122a\obj\Debug\prog122a.pdb

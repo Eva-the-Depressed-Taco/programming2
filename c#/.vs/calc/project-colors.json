@@ -15,7 +15,17 @@
       "ProjectGuid": "8ad99bdb-811a-4e82-80d9-6b4206f0bebf",
       "DisplayName": "birthdaygame",
       "ColorIndex": 2
+    },
+    "39eb5d32-81a8-420e-8961-c88b947520ec": {
+      "ProjectGuid": "39eb5d32-81a8-420e-8961-c88b947520ec",
+      "DisplayName": "favgameormovie",
+      "ColorIndex": 3
+    },
+    "e68be216-7c7d-4e31-a137-94a1b559ab98": {
+      "ProjectGuid": "e68be216-7c7d-4e31-a137-94a1b559ab98",
+      "DisplayName": "WinFormsApp2",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

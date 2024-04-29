@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{199ED0E5-53EE-40E3-9453-8ED3D4CAEB96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "birthdaygame", "birthdaygame\birthdaygame.csproj", "{8AD99BDB-811A-4E82-80D9-6B4206F0BEBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "birthdaygame", "birthdaygame\birthdaygame.csproj", "{8AD99BDB-811A-4E82-80D9-6B4206F0BEBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "favgameormovie", "favgameormovie\favgameormovie.csproj", "{39EB5D32-81A8-420E-8961-C88B947520EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp2", "WinFormsApp2\WinFormsApp2.csproj", "{E68BE216-7C7D-4E31-A137-94A1B559AB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122a", "prog122a\prog122a.csproj", "{B25D7B9C-772E-448D-8085-979B2A0E5A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{8AD99BDB-811A-4E82-80D9-6B4206F0BEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD99BDB-811A-4E82-80D9-6B4206F0BEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD99BDB-811A-4E82-80D9-6B4206F0BEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EB5D32-81A8-420E-8961-C88B947520EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EB5D32-81A8-420E-8961-C88B947520EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EB5D32-81A8-420E-8961-C88B947520EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EB5D32-81A8-420E-8961-C88B947520EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68BE216-7C7D-4E31-A137-94A1B559AB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68BE216-7C7D-4E31-A137-94A1B559AB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68BE216-7C7D-4E31-A137-94A1B559AB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68BE216-7C7D-4E31-A137-94A1B559AB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25D7B9C-772E-448D-8085-979B2A0E5A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25D7B9C-772E-448D-8085-979B2A0E5A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25D7B9C-772E-448D-8085-979B2A0E5A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25D7B9C-772E-448D-8085-979B2A0E5A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

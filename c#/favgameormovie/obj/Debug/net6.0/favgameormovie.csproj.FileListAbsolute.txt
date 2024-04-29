@@ -1,0 +1,15 @@
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\favgameormovie.exe
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\favgameormovie.deps.json
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\favgameormovie.runtimeconfig.json
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\favgameormovie.dll
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\ref\favgameormovie.dll
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\bin\Debug\net6.0\favgameormovie.pdb
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.AssemblyInfoInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.AssemblyInfo.cs
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.csproj.CoreCompileInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.dll
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\ref\favgameormovie.dll
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.pdb
+C:\Users\white.e\Desktop\programming2\c#\favgameormovie\obj\Debug\net6.0\favgameormovie.genruntimeconfig.cache
