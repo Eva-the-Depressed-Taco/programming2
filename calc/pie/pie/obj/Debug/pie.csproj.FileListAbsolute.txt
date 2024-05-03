@@ -1,0 +1,11 @@
+C:\Users\white.e\source\repos\calc\pie\pie\bin\Debug\pie.exe.config
+C:\Users\white.e\source\repos\calc\pie\pie\bin\Debug\pie.exe
+C:\Users\white.e\source\repos\calc\pie\pie\bin\Debug\pie.pdb
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.csproj.AssemblyReference.cache
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.csproj.SuggestedBindingRedirects.cache
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.Form1.resources
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.Properties.Resources.resources
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.csproj.GenerateResource.cache
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.csproj.CoreCompileInputs.cache
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.exe
+C:\Users\white.e\source\repos\calc\pie\pie\obj\Debug\pie.pdb

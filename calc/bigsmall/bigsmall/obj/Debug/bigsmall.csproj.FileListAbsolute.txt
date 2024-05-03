@@ -1,0 +1,11 @@
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.csproj.AssemblyReference.cache
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.csproj.SuggestedBindingRedirects.cache
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.Form1.resources
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.Properties.Resources.resources
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.csproj.GenerateResource.cache
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.csproj.CoreCompileInputs.cache
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\bin\Debug\bigsmall.exe.config
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\bin\Debug\bigsmall.exe
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\bin\Debug\bigsmall.pdb
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.exe
+C:\Users\white.e\source\repos\calc\bigsmall\bigsmall\obj\Debug\bigsmall.pdb
