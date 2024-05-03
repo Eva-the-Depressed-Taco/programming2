@@ -1,0 +1,7 @@
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\bin\Debug\pg347FIXED.exe
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\bin\Debug\pg347FIXED.pdb
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\obj\Debug\pg347FIXED.csprojResolveAssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\obj\Debug\pg347FIXED.MainForm.resources
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\obj\Debug\pg347FIXED.csproj.GenerateResource.Cache
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\obj\Debug\pg347FIXED.exe
+C:\Users\white.e\Desktop\programming2\pg347FIXED\pg347FIXED\obj\Debug\pg347FIXED.pdb
