@@ -1,0 +1,17 @@
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\fav game.exe
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\fav game.deps.json
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\fav game.runtimeconfig.json
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\fav game.dll
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\ref\fav game.dll
+C:\Users\white.e\Desktop\programming2\c#\fav game\bin\Debug\net6.0-windows\fav game.pdb
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav_game.Form1.resources
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.csproj.GenerateResource.cache
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.AssemblyInfoInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.AssemblyInfo.cs
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.csproj.CoreCompileInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.dll
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\ref\fav game.dll
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.pdb
+C:\Users\white.e\Desktop\programming2\c#\fav game\obj\Debug\net6.0-windows\fav game.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.csproj.GenerateResource.cache
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.AssemblyInfoInputs.cache
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.AssemblyInfo.cs
+C:\Users\white.e\Desktop\programming2\c#\WinFormsApp3\obj\Debug\net6.0-windows\pie.csproj.CoreCompileInputs.cache

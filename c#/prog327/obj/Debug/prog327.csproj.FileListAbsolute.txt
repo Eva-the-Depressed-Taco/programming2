@@ -1,0 +1,6 @@
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.csproj.AssemblyReference.cache
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.csproj.SuggestedBindingRedirects.cache
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.Form1.resources
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.Properties.Resources.resources
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.csproj.GenerateResource.cache
+C:\Users\white.e\Desktop\programming2\c#\prog327\obj\Debug\prog327.csproj.CoreCompileInputs.cache

@@ -25,7 +25,42 @@
       "ProjectGuid": "e68be216-7c7d-4e31-a137-94a1b559ab98",
       "DisplayName": "WinFormsApp2",
       "ColorIndex": 4
+    },
+    "b25d7b9c-772e-448d-8085-979b2a0e5a73": {
+      "ProjectGuid": "b25d7b9c-772e-448d-8085-979b2a0e5a73",
+      "DisplayName": "prog122a",
+      "ColorIndex": 5
+    },
+    "e3b2f462-6be0-490b-ae80-73c6788d2993": {
+      "ProjectGuid": "e3b2f462-6be0-490b-ae80-73c6788d2993",
+      "DisplayName": "fav game",
+      "ColorIndex": 6
+    },
+    "c3ab5f26-f538-458b-9c90-9a45139d3dae": {
+      "ProjectGuid": "c3ab5f26-f538-458b-9c90-9a45139d3dae",
+      "DisplayName": "pie",
+      "ColorIndex": 7
+    },
+    "64aed012-bdd2-4e8e-9533-123dd5624096": {
+      "ProjectGuid": "64aed012-bdd2-4e8e-9533-123dd5624096",
+      "DisplayName": "prog327",
+      "ColorIndex": 8
+    },
+    "577b8521-3cfd-438c-a8d1-efb8960f4ce8": {
+      "ProjectGuid": "577b8521-3cfd-438c-a8d1-efb8960f4ce8",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 9
+    },
+    "da2ae694-44d1-4fc8-80d1-4f1c4ef4452f": {
+      "ProjectGuid": "da2ae694-44d1-4fc8-80d1-4f1c4ef4452f",
+      "DisplayName": "calc",
+      "ColorIndex": 10
+    },
+    "8f8283ff-109b-4912-900d-b99ce0eb460b": {
+      "ProjectGuid": "8f8283ff-109b-4912-900d-b99ce0eb460b",
+      "DisplayName": "pg347sum",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 12
 }
