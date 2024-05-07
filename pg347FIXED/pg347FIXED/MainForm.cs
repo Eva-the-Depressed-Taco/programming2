@@ -35,7 +35,7 @@ namespace pg347FIXED
 			int n = int.Parse(textBox1.Text);
 			int n2 = int.Parse(textBox2.Text);
 			int A = n + n2;
-			label1.Text = A.ToString();
+			label1.Text = A.ToString();*
 				
 		}
 	}
