@@ -1,0 +1,6 @@
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime nums.csproj.AssemblyReference.cache
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime nums.csproj.SuggestedBindingRedirects.cache
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime_nums.Form1.resources
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime_nums.Properties.Resources.resources
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime nums.csproj.GenerateResource.cache
+C:\Users\white.e\source\repos\calc\prime nums\prime nums\obj\Debug\prime nums.csproj.CoreCompileInputs.cache
