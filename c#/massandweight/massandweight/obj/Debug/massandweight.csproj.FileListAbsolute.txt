@@ -1,0 +1,7 @@
+C:\Users\white.e\Downloads\massandweight\massandweight\obj\Debug\massandweight.csprojResolveAssemblyReference.cache
+C:\Users\white.e\Downloads\massandweight\massandweight\obj\Debug\massandweight.MainForm.resources
+C:\Users\white.e\Downloads\massandweight\massandweight\obj\Debug\massandweight.csproj.GenerateResource.Cache
+C:\Users\white.e\Downloads\massandweight\massandweight\bin\Debug\massandweight.exe
+C:\Users\white.e\Downloads\massandweight\massandweight\bin\Debug\massandweight.pdb
+C:\Users\white.e\Downloads\massandweight\massandweight\obj\Debug\massandweight.exe
+C:\Users\white.e\Downloads\massandweight\massandweight\obj\Debug\massandweight.pdb
