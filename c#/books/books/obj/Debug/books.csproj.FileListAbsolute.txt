@@ -1,0 +1,7 @@
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\bin\Debug\books.exe
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\bin\Debug\books.pdb
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\obj\Debug\books.csprojResolveAssemblyReference.cache
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\obj\Debug\books.MainForm.resources
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\obj\Debug\books.csproj.GenerateResource.Cache
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\obj\Debug\books.exe
+C:\Users\white.e\OneDrive - janesville.k12.wi.us\Desktop\programming2\c#\books\books\obj\Debug\books.pdb
